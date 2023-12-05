@@ -1,0 +1,88 @@
+.sek1{
+  display: flex;
+
+   
+}
+
+.baner1{
+   
+   background-color: #824555; 
+   text-align: center;
+   padding: 20px;
+   color: white;
+}
+
+body{
+    
+    font-family: Georgia;
+}
+
+.panelup  
+{
+    
+    background-color: #A26475;
+    color: white;
+    width: 30%;
+    height: 300px;
+}
+
+
+.up2{
+
+ background-color: #A26475;
+ color: white;
+ width: 30%;
+ height: 300px;
+}
+
+.up3{
+    
+    background-color: #A26475;
+    color: white;
+    width: 40%;
+    height: 300px;
+    text-align: right;
+}
+.glowny1{
+    
+    background-color: #F0EAE2;
+    padding: 50px;
+}
+
+footer{
+    
+    background-color: #824555;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+table,td,th{
+   border: 2px solid #69293A;
+   padding: 7px;
+   border-collapse: collapse;
+
+
+
+}
+
+ul{
+list-style: square;
+
+}
+
+#but1{
+    background-color: red;
+    height: 20px;
+    width: 15px;
+}
+#but2{
+    background-color: GREEN;
+    height: 20px;
+    width: 15px;
+}
+#but3{
+background-color: blue;
+height: 20px;
+width: 15px;
+}
